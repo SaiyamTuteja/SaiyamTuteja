@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning DSA , C++ and Full Stack Development. 
 - 💬 Ask me about anything, I am happy to help.
 - 👾 Fun fact:People who are using a computer blink 66% less than those who aren’t..
-- 📝 Do checkout my <a href="saiyam resume (4).pdf">[Resume]<a/>
+- 📝 Do checkout my <a href="Saiyam Resume.pdf">[Resume]<a/>
 <br>
 
 **My Absolute Favorites:**
