@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
-<p align="center" width="150px">I am currently a second Year student at COER Roorkee pursuing my BCA degree .Here to contribute in Open Source projects and learn new things on the go. Currently, I am focused on strengthening my programming skills, particularly in C++ and data structures. I possess a solid foundation in C , having mastered their basics. I believe that continuous learning in the ever-evolving field of technology is key to staying relevant and making a meaningful impact.</p>
+<p align="center" width="150px">I am currently a final Year student at COER Roorkee pursuing my BCA degree .Here to contribute in Open Source projects and learn new things on the go. Currently, I am focused on strengthening my programming skills, particularly in C++ and data structures. I possess a solid foundation in C , having mastered their basics. I believe that continuous learning in the ever-evolving field of technology is key to staying relevant and making a meaningful impact.</p>
 </p>
 <br>
 <hr>
