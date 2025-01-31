@@ -45,7 +45,10 @@
 ---
 
 ### 🏅 Achievements  
-- 🌟 Active participant in **GSSoC (24)**:  
+- 🌟 Active participant in **GSSoC (24)**:
+  ## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100" />
