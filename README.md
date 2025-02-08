@@ -50,11 +50,13 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/postman.png" width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png" width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png" width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/3.png" width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/4.png" width="100" />
+  <img src="https://gssoc.girlscript.tech/badges/5.png" width="100" />
+  
 </p>
 
 ---
@@ -74,8 +76,9 @@
 </p>
 
 ---
+ <img src="https://typograssy.deno.dev/api?text=SAIYAM%20TUTEJA&comment=SAIYAM%20TUTEJA" width="90%" />
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
