@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhkZjc0M2U0ODc0MDg3Mjc1ZDc5YjMzOGU0MzU4MmUxNGQ5NWMzZCZlcD12MV9kaW0&rid=giphy.gif">
 
 ### About Me 💻
-- 🎓 I’m pursuing my **MCA at Graphic Era Hill University**, Dehradun.  
+
 - 🌱 Currently learning **DSA**, **C++**, and **Full-Stack Development**.  
 - 🤝 Contributing to **Open Source Projects** and expanding my technical horizon.  
 - ✍️ Passionate about building innovative and impactful projects.  
