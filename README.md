@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06c-4f97-99f3-756907d760fa.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Saiyam Tuteja</h1>
+<h1 align="center">Hi 👋, I'm Saiyam Tuteja </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=Front-End+Developer;Open+Source+Contributor;Tech+Enthusiast;MCA+Student+%40+GEHU+Dehradun" alt="Typing SVG" />
